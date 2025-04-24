@@ -66,7 +66,11 @@ print(f"✅ Matchmaking Model Accuracy: {accuracy:.2%}")
 For the 2nd review we gave the accuracy of the model using Light GBM 
 [BIOLOGY AND ETHICS SEM-2 SECOND REVIEW.pptx](https://github.com/user-attachments/files/19855322/BIOLOGY.AND.ETHICS.SEM-2.SECOND.REVIEW.pptx)
 After 2nd review we mada a FNN model for predicting wheather the organ can be transplanted or not 
-[BIOLOGY AND ETHICS FINAL REVIEW.pptx](https://github.com/user-attachments/files/19855411/BIOLOGY.AND.ETHICS.FINAL.REVIEW.pptx)
+Final review ppft
+[BIOLOGY AND ETHICS FINAL REVIEW.pptx](https://github.com/user-attachments/files/19896105/BIOLOGY.AND.ETHICS.FINAL.REVIEW.pptx)
+Report 
+[Team3_sectionA.pdf](https://github.com/user-attachments/files/19896121/Team3_sectionA.pdf)
+
 
 
 
